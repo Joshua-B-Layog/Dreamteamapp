@@ -24,7 +24,7 @@ val dreamTeam = listOf(
         "Joshua B. Layog",
         "UI/UX Designer",
         "My name is Joshua B. Layog. I'm 22 years old and I want to be a ui/ux designer that can help and achieve some goals while learning.",
-        R.drawable.ic_launcher_background
+        R.drawable.layog
     ),
     UserProfile(
         3,
