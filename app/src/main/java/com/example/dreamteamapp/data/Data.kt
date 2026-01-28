@@ -45,6 +45,6 @@ val dreamTeam = listOf(
         "Kheam Iries Teodoro Hercia",
         "System Architect",
         "Jose designs scalable and maintainable system structures.",
-        R.drawable.ic_launcher_background
+        R.drawable.hercia
     )
 )
