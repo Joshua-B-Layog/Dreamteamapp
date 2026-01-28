@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dreamteamapp</string>
+    <string name="title_activity_data">Data</string>
+    <string name="title_activity_bio_screen">BioScreen</string>
+    <string name="title_activity_placeholder_screen">PlaceholderScreen</string>
+    <string name="title_activity_profile_card">ProfileCard</string>
+    <string name="title_activity_profile_list_screen">ProfileListScreen</string>
+    <string name="title_activity_bio_student1">BioStudent1</string>
+    <string name="title_activity_bio_student2">BioStudent2</string>
+    <string name="title_activity_bio_student3">BioStudent3</string>
+    <string name="title_activity_bio_student4">BioStudent4</string>
+    <string name="title_activity_bio_student5">BioStudent5</string>
+</resources>

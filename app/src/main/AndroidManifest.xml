@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Dreamteamapp">
+        <activity
+            android:name=".BioStudent5"
+            android:exported="false"
+            android:label="@string/title_activity_bio_student5"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".BioStudent4"
+            android:exported="false"
+            android:label="@string/title_activity_bio_student4"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".BioStudent3"
+            android:exported="false"
+            android:label="@string/title_activity_bio_student3"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".BioStudent2"
+            android:exported="false"
+            android:label="@string/title_activity_bio_student2"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".BioStudent1"
+            android:exported="false"
+            android:label="@string/title_activity_bio_student1"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".ProfileListScreen"
+            android:exported="false"
+            android:label="@string/title_activity_profile_list_screen"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".ProfileCard"
+            android:exported="false"
+            android:label="@string/title_activity_profile_card"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".PlaceholderScreen"
+            android:exported="false"
+            android:label="@string/title_activity_placeholder_screen"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".BioScreen"
+            android:exported="false"
+            android:label="@string/title_activity_bio_screen"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".Data"
+            android:exported="false"
+            android:label="@string/title_activity_data"
+            android:theme="@style/Theme.Dreamteamapp" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Dreamteamapp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
