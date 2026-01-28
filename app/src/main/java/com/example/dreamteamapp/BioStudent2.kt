@@ -16,7 +16,7 @@ class StudentTwoActivity : ComponentActivity() {
                     name = "Joshua B. Layog",
                     role = "UI/UX Designer",
                     bio = "My name is Joshua B. Layog. I'm 22 years old and I want to be a ui/ux developer that can help and have fun learning.",
-                    imageRes = R.drawable.layog
+                    imageRes = R.drawable.ic_launcher_background
                 )
             }
         }
