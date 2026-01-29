@@ -31,7 +31,7 @@ val dreamTeam = listOf(
         "Lucero, Zoe journey E.",
         "Data Analyst",
         "Pedro analyzes data trends and ensures accurate reporting.",
-        R.drawable.ic_launcher_background
+        R.drawable.lucero
     ),
     UserProfile(
         4,
