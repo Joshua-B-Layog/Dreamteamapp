@@ -17,7 +17,7 @@ val dreamTeam = listOf(
         "Joshua P. Lutap",
         "Lead Developer",
         "My name is Joshua P. Lutap. I'm 22 years old and I want to be a Lead developer that can help and have fun learning.",
-        R.drawable.ic_launcher_background
+        R.drawable.lutap
     ),
     UserProfile(
         2,
@@ -45,6 +45,6 @@ val dreamTeam = listOf(
         "Kheam Iries Teodoro Hercia",
         "System Architect",
         "Jose designs scalable and maintainable system structures.",
-        R.drawable.hercia
+        R.drawable.ic_launcher_background
     )
 )
